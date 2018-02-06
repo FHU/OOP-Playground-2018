@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP-Playground", "OOP-Playground\OOP-Playground.csproj", "{6409253F-F563-4425-8292-BDCC0716C10B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shape", "Shape\Shape.csproj", "{9B4C72AC-1158-410D-9F8A-DA957C35E042}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{6409253F-F563-4425-8292-BDCC0716C10B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6409253F-F563-4425-8292-BDCC0716C10B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6409253F-F563-4425-8292-BDCC0716C10B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B4C72AC-1158-410D-9F8A-DA957C35E042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B4C72AC-1158-410D-9F8A-DA957C35E042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B4C72AC-1158-410D-9F8A-DA957C35E042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B4C72AC-1158-410D-9F8A-DA957C35E042}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -3,6 +3,10 @@ namespace OOPPlayground
 {
     public class Circle: Shape
     {
+        public Circle()
+        {
+        }
+
         public Circle(double radius)
         {
             Radius = radius;
@@ -19,6 +23,12 @@ namespace OOPPlayground
                 return Math.PI * Radius * Radius;
             }
         } 
+
+        public override double Perimeter {
+            get {
+                return 0;
+            }
+        }
 
     }
 }

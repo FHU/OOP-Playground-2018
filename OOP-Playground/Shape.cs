@@ -9,6 +9,8 @@ namespace OOPPlayground
 
         public abstract double Area {get;}
 
+        public abstract double Perimeter { get; }
+
 
     }
 }
